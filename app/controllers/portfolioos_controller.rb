@@ -1,0 +1,2 @@
+class PortfolioosController < ApplicationController
+end
